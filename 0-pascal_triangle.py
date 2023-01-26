@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 def pascalsTriangle():
   height = int(input("Enter height of triangle: "))
   triangle = []
