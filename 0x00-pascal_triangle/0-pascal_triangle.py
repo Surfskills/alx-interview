@@ -56,3 +56,4 @@ def pascal_triangle(n):
 
         l1.append(l2)
 
+    return l1
